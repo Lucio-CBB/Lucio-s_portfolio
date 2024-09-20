@@ -11,7 +11,7 @@ I’m recognized for my problem-solving abilities, my focus on team collaboratio
 - SQL (Intermediate)
 - Python (Beginner)
 - Public Information Research
-- English (C1 Proficiency)
+- English (Advanced)
 - Problem-Solving
 
 ## Professional Experience
