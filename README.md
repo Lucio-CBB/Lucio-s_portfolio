@@ -21,9 +21,9 @@ I’m recognized for my problem-solving abilities, my focus on team collaboratio
 Avra Consultoria - Rio de Janeiro, Rio de Janeiro
 (Apr 2019 - Dec 2020)
 
-•	Coordinated teams across marketing, strategy, and research areas.
-•	Led training and onboarding programs to ensure team success.
-•	Co-created the company’s "Coordination Model" and was awarded the 'Professional Excellence' award during tenure.
+- Coordinated teams across marketing, strategy, and research areas.
+- Led training and onboarding programs to ensure team success.
+- Co-created the company’s "Coordination Model" and was awarded the 'Professional Excellence' award during tenure.
 
 
 **Sales Consultant**
@@ -31,20 +31,20 @@ Avra Consultoria - Rio de Janeiro, Rio de Janeiro
 KNN Idiomas - Maracaju, Mato Grosso do Sul
 (Apr 2021 - Oct 2021)
 
-•	Achieved sales targets through strong follow-up and customer service.
-•	Led projects, acting as a liaison between customers and internal teams.
-•	Drove customer success through relationship-building, empathy, and tailored solutions.
+- Achieved sales targets through strong follow-up and customer service.
+- Led projects, acting as a liaison between customers and internal teams.
+- Drove customer success through relationship-building, empathy, and tailored solutions.
 
 **English Teacher**
 
 GRUPO SALTA EDUCAÇÃO S/A - Maracaju, Mato Grosso do Sul (Jan 2023 – Current)
 
-•	Integrated critical thinking exercises into lesson plans to improve students' problem-solving skills.
-•	Adapted teaching methods and instructional materials to meet varying needs and interests.
-•	Brought in interventionists and counselors to help struggling students.
-•	Supervised extracurricular activities like clubs and sports, contributing to the school's community spirit.
-•	Met with parents and guardians to discuss each student's progress.
-•	Implemented behavior management techniques to resolve conflicts and promote a respectful classroom atmosphere.
+- Integrated critical thinking exercises into lesson plans to improve students' problem-solving skills.
+- Adapted teaching methods and instructional materials to meet varying needs and interests.
+- Brought in interventionists and counselors to help struggling students.
+- Supervised extracurricular activities like clubs and sports, contributing to the school's community spirit.
+- Met with parents and guardians to discuss each student's progress.
+- Implemented behavior management techniques to resolve conflicts and promote a respectful classroom atmosphere.
 
 
 # Education
