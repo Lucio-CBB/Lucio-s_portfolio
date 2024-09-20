@@ -2,7 +2,7 @@
 # Project: Brasileirão 2023 Statistics
 
 ## Project Description
-This project aims to analyze the performance of teams in the Brasileirão 2023, answering strategic questions about the championship. Using SQL queries to extract data from a database and Power BI to create interactive dashboards, we provide a detailed view of various statistics and insights about the teams' performance throughout the competition.
+This project aims to analyze the performance of teams in the Brasileirão 2023, answering strategic questions about the championship. Using SQL queries to extract data from a database and Power BI to create interactive dashboards, the project provide a detailed view of various statistics and insights about the teams' performance throughout the competition.
 
 ![image](https://github.com/user-attachments/assets/a9fa9f3d-3015-4541-9bf0-1ff3bbd666ca)
 
