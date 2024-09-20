@@ -92,7 +92,7 @@ This project aims to analyze the performance of teams in the Brasileirão 2023, 
 
 
 - Teams: Cruzeiro and Cuiabá
-- Cruzeiro finished in 14th place, and Cuiabá in 12th, both with more away wins than home wins.
+- Cruzeiro finished in 14th place, and Cuiabá in 12th, both won more away than at home.
 
 ### Best and Worst Defense
 
